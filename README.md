@@ -1,9 +1,10 @@
 # rock-paper-scissors
 
-Develop Rock-Paper-Scissors that runs in the console.
+Develop Rock-Paper-Scissors.
 
+This game started out as a console script, but now it can be played on the webpage.
 
-Open index.html in a browser
-Type game() into the web console
+Player vs Computer.
 
-Have fun!
+Have Fun!.
+
