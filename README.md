@@ -8,3 +8,5 @@ Player vs Computer.
 
 Have Fun!.
 
+[Click Here](https://hurr-son.github.io/rock-paper-scissors/)
+
